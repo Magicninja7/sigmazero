@@ -167,9 +167,15 @@ Xyron:
   description: "A really simple and basic cheap CoreXY printer"
   repository: "https://raw.githubusercontent.com/Rikhav21/Xyron/refs/heads/main/design.md"
   file_name: xyron.md
-
+  
 GreenSpool:
   title: "GreenSpool"
   description: "A green 3D printer that can use plastic as filament"
   repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
+
+Nu:
+  title: "Nu"
+  description: "A budget-friendly 5 axis 3d printer"
+  repository: "https://raw.githubusercontent.com/Magicninja7/Nu/refs/heads/main/LOG.md"
+  file_name: nu.md
